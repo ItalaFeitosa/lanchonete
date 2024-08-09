@@ -1,7 +1,7 @@
 Algoritmo "semnome"
 
 Var
-
+// alteraçoes github
   ql,qb,b:inteiro // ql=quantidade de lanche, qb=quantidade de bebidas
 
   VL,VB,VTC,T,p,f:real // VTC=valor total da compra, VL=valor lanches
