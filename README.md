@@ -1,6 +1,6 @@
 #Índice
-* [Funcionalidades](#Funcionalidades)
-* [Status].(#Status)
+* [Funcionalidades].(#Funcionalidades).
+* [Status].(#Status).
 
 # Algoritmo para lanchonete
 ## <h1 align="center"> Repositório ALG Lanchonete </h1>
